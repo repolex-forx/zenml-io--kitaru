@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "kitaru",
+  "versions": [
+    {
+      "commit": "9b33e7576c36b57f22db26e619bbeab58df72426",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:23:48.778824+00:00"
+    }
+  ]
+}
