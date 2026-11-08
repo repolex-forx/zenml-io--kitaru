@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/kitaru/commit/9b33e7576c36b57f22db26e619bbeab58df72426",
       "git:hexsha": "9b33e7576c36b57f22db26e619bbeab58df72426",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zenml-io/kitaru/commit/e314ba89aefdd0c081e381e8a2b5b8070712741d",
